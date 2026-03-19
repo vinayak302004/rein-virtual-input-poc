@@ -22,7 +22,7 @@ To demonstrate that input events (mouse movement, scrolling) can be injected at 
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](assets/architecture.png)
+<img width="1024" height="1536" alt="Architecture" src="https://github.com/user-attachments/assets/5dcb9541-6310-412b-8edb-2f073b22c0d7" />
 
 ---
 
