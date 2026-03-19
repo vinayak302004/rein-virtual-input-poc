@@ -22,19 +22,7 @@ To demonstrate that input events (mouse movement, scrolling) can be injected at 
 
 ## 🏗️ Architecture
 
-```
-Rein Client (Node.js)
-        ↓
-FFI Layer (koffi)
-        ↓
-Native C Library
-        ↓
-Linux uinput (Virtual Input Device)
-        ↓
-OS Kernel Input Subsystem
-        ↓
-Cursor Movement / System Input
-```
+![Architecture Diagram](assets/architecture.png)
 
 ---
 
