@@ -1,0 +1,23 @@
+{
+  "name": "rein-virtual-input-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayak302004/rein-virtual-input-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayak302004/rein-virtual-input-poc/issues"
+  },
+  "homepage": "https://github.com/vinayak302004/rein-virtual-input-poc#readme",
+  "dependencies": {
+    "koffi": "^2.15.2"
+  }
+}
